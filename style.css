@@ -1,0 +1,67 @@
+.btn-1{ 
+  background-color: rgb(0, 0, 0);  
+  border-radius: 25% 10%;
+  padding: 14px 30px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+ }
+
+.btn-2{ 
+  background-color: rgb(0, 0, 0);   
+  border-radius: 25% 10%;  
+  padding: 14px 30px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block; 
+}
+
+.btn-3{ 
+   background-color: rgb(0, 0, 0);    
+   border-radius: 25% 10%; 
+   padding: 14px 30px;
+   font-size: 16px;
+   cursor: pointer;
+   display: inline-block;
+
+}
+.button-container {
+  text-align: center;
+  margin-top: 10px; /* Ajusta según sea necesario */
+}
+
+.btn-1,
+.btn-2,
+.btn-3 {
+  margin: 5px; /* Espaciado entre los botones */
+}
+.h2{
+  text-align:center;
+}
+.h2 a {
+  color: rgb(50,50,50);
+  text-decoration: none;
+ }
+ .label{
+  color: rgb(50,50,50);
+  text-decoration: none;
+  text-align:center;
+ }
+.form {
+  width: 50%;
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+}
+.form-container {
+  width: 50%;
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+}
